@@ -15,11 +15,15 @@ Esse projeto foi desenvolvido como parte dos exercícios do curso de Lógica de 
 ## 📸 Imagem do jogo:
 ![Imagem do Jogo](img/imagem-jogo.png)
 
-## 👨‍💻 Autora
+## 👩‍💻 Autora:
 
-Feito por ✨[Nathália Anastácio](https://github.com/nath-anastacio)✨
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/172634421?v=4" width=115><br><sub>Nathália Anastácio</sub>](https://github.com/nath-anastacio)
 
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/nathalia-anastacio/)
+### 💬 Você pode me encontrar em:
+<div>
+  <a href="https://www.linkedin.com/in/nathalia-anastacio/" target="_blank"><img src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
+  <a href = "mailto:nathanastacio@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 
